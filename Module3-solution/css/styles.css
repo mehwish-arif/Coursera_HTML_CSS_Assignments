@@ -1,0 +1,58 @@
+* {
+  font-family: "Oxygen", sans-serif;
+}
+#header-nav {
+  background-color: #808080;
+  border-radius: 0;
+  border: 3px solid;
+}
+.navbar-brand {
+  padding-top: 10px;
+}
+.navbar-brand h1 {
+  color: #000000;
+  font-weight: Bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 0.75;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 1px #222;
+}
+#menu-header {
+  font-weight: bold;
+  font-size: 2.5em;
+}
+#section-heading {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+.icon-bar {
+  border: 3px solid #000000;
+}
+button.navbar-toggle {
+  border-color: #000000;
+}
+#tall-section {
+  padding: 0;
+  margin: 0;
+  background-color: #d3d3d3;
+  font-size: 1.5em;
+  text-align: justify;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #000000;
+  text-align: center;
+  font-weight: bold;
+  background: #ffffff;
+  border-color: #000000;
+}
+#nav-list a:hover {
+  background: #e7e7e7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
